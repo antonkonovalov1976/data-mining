@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    }, 
+    {
+        "entity_name": "МКП \"ГЭТ\" Филиал №5"
+    }, 
+    {
+        "entity_code": "ИНН 5402108170"
+    }, 
+    {
+        "vehicle_type": "муниципальный / трамвай"
+    }, 
+    {
+        "route": "13"
+    }, 
+    {
+        "trip": "6"
+    }, 
+    {
+        "trip_date": "2020-07-10"
+    }, 
+    {
+        "trip_time": "12:16:04"
+    }, 
+    {
+        "terminal_id": "T020313"
+    }, 
+    {
+        "ticket_serie": "0005404F59"
+    }, 
+    {
+        "ticket_num": ""
+    }, 
+    {
+        "transaction": ""
+    }, 
+    {
+        "description": "", 
+        "value": ""
+    }, 
+    {
+        "description": "", 
+        "value": ""
+    }
+]
