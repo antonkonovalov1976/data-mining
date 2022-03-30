@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "ИП Кривошапова Т.Н."
+    },
+    {
+        "entity_code": "ИНН 540324124220"
+    },
+    {
+        "vehicle_type": "коммерческий / автобус"
+    },
+    {
+        "route": "43"
+    },
+    {
+        "trip": "18"
+    },
+    {
+        "trip_date": "2021-06-30"
+    },
+    {
+        "trip_time": "07:20:25"
+    },
+    {
+        "terminal_id": "T099970"
+    },
+    {
+        "ticket_serie": "0005418682"
+    },
+    {
+        "ticket_num": ""
+    },
+    {
+        "transaction": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]

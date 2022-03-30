@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "МКП \"ГЭТ\" Филиал №4"
+    },
+    {
+        "entity_code": "ИНН 5402108170"
+    },
+    {
+        "vehicle_type": "муниципальный / трамвай"
+    },
+    {
+        "route": "18"
+    },
+    {
+        "trip": "2"
+    },
+    {
+        "trip_date": "2021-12-26"
+    },
+    {
+        "trip_time": "14:11:04"
+    },
+    {
+        "terminal_id": "T020522"
+    },
+    {
+        "ticket_serie": "000540502A"
+    },
+    {
+        "ticket_num": ""
+    },
+    {
+        "transaction": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]

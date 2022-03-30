@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "ООО \"Регион - Автоцентр\""
+    },
+    {
+        "entity_code": "ИНН 5410137223"
+    },
+    {
+        "vehicle_type": "коммерческий / автобус"
+    },
+    {
+        "route": "28"
+    },
+    {
+        "trip": "2"
+    },
+    {
+        "trip_date": "2021-09-28"
+    },
+    {
+        "trip_time": "10:48:11"
+    },
+    {
+        "terminal_id": "T100830"
+    },
+    {
+        "ticket_serie": "00054189DE"
+    },
+    {
+        "ticket_num": ""
+    },
+    {
+        "transaction": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]

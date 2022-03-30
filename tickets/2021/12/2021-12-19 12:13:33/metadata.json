@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "ИП Кобенко В. А."
+    },
+    {
+        "entity_code": "ИНН 540617570761"
+    },
+    {
+        "vehicle_type": "коммерческий / автобус"
+    },
+    {
+        "route": "29"
+    },
+    {
+        "trip": "7"
+    },
+    {
+        "trip_date": "2021-12-19"
+    },
+    {
+        "trip_time": "12:13:33"
+    },
+    {
+        "terminal_id": "T053164"
+    },
+    {
+        "ticket_serie": "000540CFAC"
+    },
+    {
+        "ticket_num": ""
+    },
+    {
+        "transaction": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]

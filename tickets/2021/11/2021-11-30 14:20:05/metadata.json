@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "МКП \"ГЭТ\" Филиал №3"
+    },
+    {
+        "entity_code": "ИНН 5402108170"
+    },
+    {
+        "vehicle_type": "муниципальный / троллейбус"
+    },
+    {
+        "route": "7"
+    },
+    {
+        "trip": "6"
+    },
+    {
+        "trip_date": "2021-11-30"
+    },
+    {
+        "trip_time": "14:20:05"
+    },
+    {
+        "terminal_id": "T020413"
+    },
+    {
+        "ticket_serie": "0005404FBD"
+    },
+    {
+        "ticket_num": ""
+    },
+    {
+        "transaction": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]

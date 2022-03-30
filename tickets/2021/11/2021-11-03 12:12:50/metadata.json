@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "ООО \"БелМарС-2005\""
+    },
+    {
+        "entity_code": "ИНН 5403177793"
+    },
+    {
+        "vehicle_type": "коммерческий / автобус"
+    },
+    {
+        "route": "97"
+    },
+    {
+        "trip": "3"
+    },
+    {
+        "trip_date": "2021-11-03"
+    },
+    {
+        "trip_time": "12:12:50"
+    },
+    {
+        "terminal_id": "T099983"
+    },
+    {
+        "ticket_serie": "000541868F"
+    },
+    {
+        "ticket_num": ""
+    },
+    {
+        "transaction": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]

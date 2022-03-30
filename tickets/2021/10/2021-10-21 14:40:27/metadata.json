@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "ИП Калашников О.В."
+    },
+    {
+        "entity_code": "ИНН 540320082989"
+    },
+    {
+        "vehicle_type": "коммерческий / автобус"
+    },
+    {
+        "route": "96"
+    },
+    {
+        "trip": "3"
+    },
+    {
+        "trip_date": "2021-10-21"
+    },
+    {
+        "trip_time": "14:40:27"
+    },
+    {
+        "terminal_id": "T103455"
+    },
+    {
+        "ticket_serie": "000541941F"
+    },
+    {
+        "ticket_num": ""
+    },
+    {
+        "transaction": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]

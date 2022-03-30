@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "ООО \"ПАТП-6\""
+    },
+    {
+        "entity_code": "ИНН 5418734"
+    },
+    {
+        "vehicle_type": "коммерческий / автобус"
+    },
+    {
+        "route": "13"
+    },
+    {
+        "trip": "5"
+    },
+    {
+        "trip_date": "2021-07-09"
+    },
+    {
+        "trip_time": "14:35:58"
+    },
+    {
+        "terminal_id": "T100148"
+    },
+    {
+        "ticket_serie": "0005418734"
+    },
+    {
+        "ticket_num": ""
+    },
+    {
+        "transaction": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]

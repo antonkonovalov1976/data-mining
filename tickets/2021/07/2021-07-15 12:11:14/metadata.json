@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "ИП Кандаков В.В."
+    },
+    {
+        "entity_code": "ИНН 540442467168"
+    },
+    {
+        "vehicle_type": "коммерческий / автобус"
+    },
+    {
+        "route": "57"
+    },
+    {
+        "trip": "2"
+    },
+    {
+        "trip_date": "2021-07-15"
+    },
+    {
+        "trip_time": "12:11:14"
+    },
+    {
+        "terminal_id": "T100239"
+    },
+    {
+        "ticket_serie": "000541878F"
+    },
+    {
+        "ticket_num": ""
+    },
+    {
+        "transaction": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]

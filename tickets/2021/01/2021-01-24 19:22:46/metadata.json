@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "ООО Новосибирскпрофстрой-ПАТП-1"
+    },
+    {
+        "entity_code": "ИНН 5402175433"
+    },
+    {
+        "vehicle_type": "коммерческий / автобус"
+    },
+    {
+        "route": "98"
+    },
+    {
+        "trip": "9"
+    },
+    {
+        "trip_date": "2021-01-24"
+    },
+    {
+        "trip_time": "19:22:46"
+    },
+    {
+        "terminal_id": "T098607"
+    },
+    {
+        "ticket_serie": "000541812F"
+    },
+    {
+        "ticket_num": "600DC90621E4E14581612D"
+    },
+    {
+        "transaction": "2143045234"
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]
