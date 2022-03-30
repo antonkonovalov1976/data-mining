@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "МКП \"ПАТП №4\""
+    },
+    {
+        "entity_code": "ИНН 54091020650"
+    },
+    {
+        "vehicle_type": "муниципальный / автобус"
+    },
+    {
+        "route": "20"
+    },
+    {
+        "trip": "7"
+    },
+    {
+        "trip_date": "2020-11-24"
+    },
+    {
+        "trip_time": "17:35:42"
+    },
+    {
+        "terminal_id": "T020182"
+    },
+    {
+        "ticket_serie": ""
+    },
+    {
+        "ticket_num": "749198033"
+    },
+    {
+        "transaction": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]

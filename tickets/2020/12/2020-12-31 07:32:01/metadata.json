@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "ООО \"АвтоРегионБус\""
+    },
+    {
+        "entity_code": "ИНН 5433199441"
+    },
+    {
+        "vehicle_type": "коммерческий / автобус"
+    },
+    {
+        "route": "41"
+    },
+    {
+        "trip": "0"
+    },
+    {
+        "trip_date": "2020-12-31"
+    },
+    {
+        "trip_time": "07:32:01"
+    },
+    {
+        "terminal_id": "T088082"
+    },
+    {
+        "ticket_serie": "0005415812"
+    },
+    {
+        "ticket_num": "5FED7E7121E4E12E9BE171"
+    },
+    {
+        "transaction": "2025554010"
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "ООО \"СИБНИКМА\""
+    },
+    {
+        "entity_code": "ИНН 5403355608"
+    },
+    {
+        "vehicle_type": "коммерческий / автобус"
+    },
+    {
+        "route": "57"
+    },
+    {
+        "trip": "5"
+    },
+    {
+        "trip_date": "2020-11-24"
+    },
+    {
+        "trip_time": "15:17:39"
+    },
+    {
+        "terminal_id": "T098699"
+    },
+    {
+        "ticket_serie": "000541818B"
+    },
+    {
+        "ticket_num": "5FBD241321E4E1695D4BCB"
+    },
+    {
+        "transaction": "1043948109"
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]

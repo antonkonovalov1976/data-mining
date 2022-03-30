@@ -1,0 +1,46 @@
+[
+    {
+        "town_name": "г.Новосибирск"
+    },
+    {
+        "entity_name": "МКП \"ГЭТ\" ГП"
+    },
+    {
+        "entity_code": "ИНН 5402108170"
+    },
+    {
+        "vehicle_type": "муниципальный / троллейбус"
+    },
+    {
+        "route": "5"
+    },
+    {
+        "trip": "1"
+    },
+    {
+        "trip_date": "2020-12-24"
+    },
+    {
+        "trip_time": "16:24:39"
+    },
+    {
+        "terminal_id": "T020243"
+    },
+    {
+        "ticket_serie": "0005404F13"
+    },
+    {
+        "ticket_num": "5FE4C0C721E4E173C825D9"
+    },
+    {
+        "transaction": "751650817"
+    },
+    {
+        "description": "",
+        "value": ""
+    },
+    {
+        "description": "",
+        "value": ""
+    }
+]
